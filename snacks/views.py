@@ -30,3 +30,4 @@ class HomePageView(TemplateView):
         return context
 
 # Create your views here.
+ 
